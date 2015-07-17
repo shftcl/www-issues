@@ -1,2 +1,2 @@
 # www-issues
-Keeping track of bug on https://shft.cl
+Keeping track of bugs on https://shft.cl
