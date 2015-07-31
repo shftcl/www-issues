@@ -18,7 +18,7 @@ and the [public facing website](https://shft.cl/).
 ## Website v1.1.0
 
 - Fix AdBlocker (See #2)
-- Fix typos (See #3)
+- Fix typos (See #1)
 - Added color palette
 
 
