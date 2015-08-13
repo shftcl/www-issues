@@ -9,6 +9,13 @@ and the [public facing website](https://shft.cl/).
 - Bug fixes
 - Rewrote some texts
 
+## Chrome extension v1.1.1 (2015-08-13)
+
+- Added support for srcset
+- Fix regression with background images
+- Fix some event conflicts
+- Fix errors with background css images (gradients)
+
 ## Chrome extension v1.1.0 (2015-07-31)
 
 - Bug fixes
