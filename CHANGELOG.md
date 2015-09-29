@@ -6,8 +6,8 @@ and the [public facing website](https://shft.cl/).
 
 ## Chrome extension v1.2.0 (2015-09-29)
 
-- Added <picture /> support
-- Added multiple <source /> support
+- Added `<picture />` element support
+- Added multiple `<source />` element support
 - Bug fixes
 - Added better srcset parsing
 - Better window.open alternative (using the Chrome Extension API)
