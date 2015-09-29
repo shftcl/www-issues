@@ -4,6 +4,17 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.2.0 (2015-09-29)
+
+- Added <picture /> support
+- Added multiple <source /> support
+- Bug fixes
+- Added better srcset parsing
+- Better window.open alternative (using the Chrome Extension API)
+- Added `ctrl` + `shift` + `click` which does not focuses the new tab
+- Better error handling and error messages
+- Some code cleanup
+
 ## Website v1.2.0 (TBA)
 
 - Bug fixes
