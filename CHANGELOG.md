@@ -4,6 +4,24 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.3.2 (2016-01-29)
+
+- Fixed issue with the right click action
+- Fixed issue with background url parsing (#19, #15, #6, #14)
+
+## Website v1.2.2 (2016-01-29)
+
+- Fixed broken Pinterest share link (#17)
+- Added support for sizeless svg (usign viewBox) (#10)
+
+## Website v1.2.1 (2015-11-26)
+
+- Added share image
+
+## Chrome extension v1.3.1 (2015-11-24)
+
+- Fix bug when no orientation infos is available
+
 ## Chrome extension v1.3.0 (2015-11-24)
 
 - Added screen shots mode, activated with triple shift
