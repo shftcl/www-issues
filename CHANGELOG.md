@@ -4,6 +4,19 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.4.0 (2017-06-27)
+
+- Added support for screen shots
+- Fixed many, many bugs (#4, #29, #33, #32, #28, #25, #7)
+
+## Website v1.4.0 (2017-06-26)
+
+- Added history page
+- Make it possible to run multiple instance of the server
+- Use the new tab to display errors
+- Better UI on mobile
+- Lots of code refactor
+
 ## Chrome extension v1.3.2 (2016-01-29)
 
 - Fixed issue with the right click action
