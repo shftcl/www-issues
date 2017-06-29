@@ -4,6 +4,18 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.4.2 (2017-06-29)
+
+- Fixed a problem with a developer feature being enabled when it should not
+
+## Chrome extension v1.4.1 (2017-06-29)
+
+- Fixed a problem with multiple loading tabs being open at the same time
+
+## Website v1.4.0 (2017-06-26)
+
+- Added error message for rate-limiting
+
 ## Chrome extension v1.4.0 (2017-06-27)
 
 - Added support for screen shots
