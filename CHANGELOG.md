@@ -4,6 +4,10 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.4.3 (2017-07-06)
+
+- Internal bug fix
+
 ## Chrome extension v1.4.2 (2017-06-29)
 
 - Fixed a problem with a developer feature being enabled when it should not
