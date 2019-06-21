@@ -4,6 +4,31 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Website v1.5.0 (2019-06-21)
+
+- Our first update since the past two years!
+- Migration to node 10, almost ready for node 12
+- Add history page
+- Add support for webp
+- Add support for pasting images
+
+## Chrome extension v1.5.3 (2019-05-25)
+
+- Fix context menu issue
+
+## Chrome extension v1.5.2 (2019-05-23)
+
+- Fix CSP issue
+
+## Chrome extension v1.5.1 (2019-05-22)
+
+- Fix issue in dev mode
+
+## Chrome extension v1.5.0 (2019-05-21)
+
+- Fix issue with request in the content script: migrate all requests to background
+- Fix issues with HDPI monitors
+
 ## Chrome extension v1.4.4 (2017-07-25)
 
 - Ignore shift clicks in contenteditable elements
