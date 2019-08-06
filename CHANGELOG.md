@@ -4,6 +4,10 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.5.4 (2019-08-06)
+
+- Fix issue with images with srcset
+
 ## Website v1.5.0 (2019-06-21)
 
 - Our first update since the past two years!
