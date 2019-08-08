@@ -4,6 +4,14 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v1.5.6 (2019-08-07)
+
+- Fix issue with undefined variables
+
+## Chrome extension v1.5.5 (2019-08-07)
+
+- Fix issue with undefined variables
+
 ## Chrome extension v1.5.4 (2019-08-06)
 
 - Fix issue with images with srcset
