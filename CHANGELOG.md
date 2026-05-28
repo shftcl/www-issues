@@ -4,6 +4,10 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v2.0.0 (2026-05-28)
+
+- Fix issues with /paste
+
 ## Website v2.0.0 (2026-05-28)
 
 - Complete re-write of the whole infra and code base
