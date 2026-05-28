@@ -4,6 +4,14 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Website v2.0.0 (2026-05-28)
+
+- Complete re-write of the whole infra and code base
+
+## Chrome extension v2.0.0 (2026-05-28)
+
+- Migration to manifest v3
+
 ## Chrome extension v1.5.6 (2019-08-07)
 
 - Fix issue with undefined variables
