@@ -4,6 +4,10 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v2.0.3 (2026-06-02)
+
+- Fix issues with protocol relative urls
+
 ## Website v2.0.1 (2026-06-02)
 
 - Fix issues with facebook/instagram.
