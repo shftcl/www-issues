@@ -4,6 +4,14 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Website v2.0.2 (2026-06-03)
+
+- Properly display the precise error page
+
+## Chrome extension v2.0.4 (2026-06-02)
+
+- Properly display the precise error page
+
 ## Chrome extension v2.0.3 (2026-06-02)
 
 - Fix issues with protocol relative urls
