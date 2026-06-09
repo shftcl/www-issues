@@ -4,6 +4,10 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Website v2.0.3 (2026-06-09)
+
+- Add avif from the source support, still prefer webp when possible.
+
 ## Website v2.0.2 (2026-06-03)
 
 - Properly display the precise error page
