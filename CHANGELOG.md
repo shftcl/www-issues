@@ -4,6 +4,10 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v2.0.5 (2026-06-12)
+
+- Proper srcset parsing, fixes issues with many sites.
+
 ## Website v2.0.3 (2026-06-09)
 
 - Add avif from the source support, still prefer webp when possible.
