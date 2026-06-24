@@ -4,6 +4,11 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v2.0.6 (2026-06-24)
+
+- Fix issue with rogue paste
+- Bonne Saint-Jean-Baptiste !
+
 ## Chrome extension v2.0.5 (2026-06-12)
 
 - Proper srcset parsing, fixes issues with many sites.
