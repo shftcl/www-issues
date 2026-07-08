@@ -4,6 +4,15 @@
 Here are all release notes of both the [Chrome extension](https://shft.cl/chrome) 
 and the [public facing website](https://shft.cl/).
 
+## Chrome extension v2.1.0 (2026-07-08)
+
+- Add the ability to draw on your images !
+
+## Website v2.1.0 (2026-07-08)
+
+- Add the ability to draw on your images
+- Add the ability to delete on your images
+
 ## Chrome extension v2.0.6 (2026-06-24)
 
 - Fix issue with rogue paste
